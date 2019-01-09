@@ -1,5 +1,6 @@
 # -NY-Times-Best-Sales-Books-
 Get Data of NY Times Best Sales Books from New York Times Developer API
+for all gener between 2009 and 2017
 
 this data is for NY Times Best Sales Books (https://www.nytimes.com/books/best-sellers/)
 ![NY-Times-Best-Sales-Books](https://github.com/alisharifi2000/-NY-Times-Best-Sales-Books-/blob/master/Best%20Sellers%20-%20The%20New%20York%20Times.png)
